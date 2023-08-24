@@ -1,4 +1,6 @@
 ### Hi there 👋
+oie, eu sou a Erica.
+ Ainda sou estudante, gosto mt de esportes e ir pra academia, meu hobby é dancar, a futura profissão que quero exercer é a pericia.
 
 <!--
 **luanaerica19/luanaerica19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
